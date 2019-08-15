@@ -20,10 +20,10 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'devanali_git-ejemplo' );
+define( 'DB_NAME', 'git-ejemplo' );
 
 /** MySQL database username */
-define( 'DB_USER', 'devanali_git-ejemplo' );
+define( 'DB_USER', 'alrex_asalazar' );
 
 /** MySQL database password */
 define( 'DB_PASSWORD', 'Asalazar123++' );
